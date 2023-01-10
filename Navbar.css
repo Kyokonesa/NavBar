@@ -1,0 +1,40 @@
+.navbar {
+  padding: 10px;
+  background: #004ea2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  height: 93px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+ 
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 60px;
+
+}
+
+.nav-item {
+  padding: 10px;
+  text-align: left;
+  font: normal normal 600 20px/27px Segoe UI;
+  letter-spacing: 0px;
+  color: #eae6e6;
+  opacity: 1;
+  float: right;
+}
+
+.nav-link { 
+  color: #eae6e6;
+  text-decoration: none;
+}
+
+
+
+.nav-link:hover {
+  background-color: #444;
+}
